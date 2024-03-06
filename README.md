@@ -9,7 +9,7 @@ Can be used to run offline in local CPU.
 ![cricket chatbot](https://github.com/Ahmed-Anwar-2001/Cricket-Chatbot/assets/68177550/0ee4f860-f729-4f86-bdfb-b55a8c030bbf)
 
 
-=================================================================================
+===========================================================================
 
 ## Using MistralAI-
 Model Used - 'mistralai/Mistral-7B-Instruct-v0.1'
